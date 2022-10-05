@@ -6,7 +6,7 @@ This project performs operations using the reqres api.
 
 Laravel 9+ - Php 8.1+
 
-add .env.example as .env
+Rename the .env.example file to .env
 
 ## Installation
 
