@@ -2,7 +2,7 @@
 
 This project performs operations using the reqres api.
 
-#Requirements
+# Requirements
 
 Laravel 9+ - Php 8.1+
 
